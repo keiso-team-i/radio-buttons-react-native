@@ -74,4 +74,4 @@ see this simple [example](https://github.com/sramezani/radio-buttons-react-nativ
 Yes of course! Welcome :)
 
 # License
-[MIT](https://github.com/sramezani/radio-buttons-react-native/blob/master/LICENSE)
+[MIT](https://github.com/keiso-team-i/radio-buttons-react-native/blob/master/LICENSE)
